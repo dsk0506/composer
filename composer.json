@@ -1,6 +1,7 @@
 {
     "name": "dsk/composer",
     "description": "test",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "dingshoukun",
