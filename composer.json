@@ -2,6 +2,7 @@
     "name": "dsk0506/dsk",
     "description": "test",
     "version": "1.0.0",
+    "minimum-stability": "RC",
     "authors": [
         {
             "name": "dingshoukun",
