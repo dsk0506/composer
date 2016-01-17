@@ -1,0 +1,16 @@
+{
+    "name": "dsk0506/dsk",
+    "description": "test",
+    "authors": [
+        {
+            "name": "dingshoukun",
+            "email": "393573645@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "dsk\\": "src/"
+        }
+    }
+}
