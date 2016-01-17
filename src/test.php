@@ -1,9 +1,9 @@
 <?php
-namespaces dsk;
+namespace dsk;
 
-class test(){
+class test{
 
-	public function(){
+	public function test(){
 		echo 'test';
 	}
 
